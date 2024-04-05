@@ -10,9 +10,9 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/pantherale0/ha-fuelprices/issues",
   "requirements": [
-    "reverse-geocode==1.4.1",
+    "reverse-geocode==1.6.1",
     "these-united-states==1.1.0.21",
-    "pyfuelprices==2.2.9"
+    "pyfuelprices==2.2.10"
   ],
   "ssdp": [],
   "version": "0.0.0",
